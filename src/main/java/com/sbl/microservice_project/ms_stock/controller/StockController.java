@@ -1,4 +1,5 @@
 package com.sbl.microservice_project.ms_stock.controller;
+import com.sbl.microservice_project.ms_stock.MsStockApplication;
 
 import com.sbl.microservice_project.ms_stock.service.StockServiceImp;
 import com.sbl.microservice_project.ms_stock.entities.Stock;
